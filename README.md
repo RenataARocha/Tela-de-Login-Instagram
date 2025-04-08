@@ -9,8 +9,16 @@ O objetivo é praticar conceitos de layout, posicionamento e responsividade. </p
 <h2>🚀 Tecnologias Utilizadas</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="badge-html"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="badge-css"/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 <br>
-
+<br>
 
 <h2>📌 Funcionalidades</h2>
 <p>  
@@ -26,8 +34,9 @@ O objetivo é praticar conceitos de layout, posicionamento e responsividade. </p
 
 Link: https://programadorawebrenatarocha.com.br/
 
+![Captura de tela 2025-03-20 170544](https://github.com/user-attachments/assets/f383345e-f25a-4b90-b620-aa9a09f9eb9d)
 
-![Captura de tela 2025-03-20 170544](https://github.com/user-attachments/assets/31a37802-6d21-4157-a57e-ba0630829fb9)
+
 
 <br>
 
@@ -47,7 +56,3 @@ https://programadorawebrenatarocha.com.br/ <br> <br>
 
 <h2>📜 Licença</h2>
 <p>Este projeto está sob a licença MIT. Sinta-se livre para utilizá-lo e melhorá-lo!</p>
-
-
-
-
